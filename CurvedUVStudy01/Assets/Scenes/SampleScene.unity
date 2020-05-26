@@ -151,9 +151,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   width: 1
-  height: 1
+  length: 1
   offset: 0
-  degrees: 0
+  degrees: 42
+  use_smooth: 1
   straightMaterial: {fileID: 2100000, guid: ef6888e7651fdec4dbbf9e64661703a8, type: 2}
   curveMaterial: {fileID: 2100000, guid: bb06849a1cd21ab48a3194418a451fef, type: 2}
 --- !u!4 &681204081
